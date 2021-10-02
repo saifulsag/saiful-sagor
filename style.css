@@ -1,0 +1,12 @@
+h1{
+    border: 8px solid green;
+    margin: 5px;
+    padding: 5px;
+    width: 50%;
+    background-color: blue;
+    text-align: center red;
+}
+p{
+    color: aqua;
+    font-size: 50px;
+}
